@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635918334564",
+    "project_id": "strak-76fc7",
+    "storage_bucket": "strak-76fc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635918334564:android:5793d293d182bdb1333d71",
+        "android_client_info": {
+          "package_name": "com.androidtalha.strak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635918334564-oc27m5hipenp25ig1rfoe2soamoj3hvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg70xTP8uXyv2qEbLIRkE_0YoaFmkJW38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635918334564-oc27m5hipenp25ig1rfoe2soamoj3hvo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
